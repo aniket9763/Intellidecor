@@ -33,5 +33,10 @@ To get started with IntelliDecor, simply visit our website and provide a descrip
 ## Contributions
 We welcome contributions from developers and designers who are interested in improving IntelliDecor's features and functionality. To contribute, please fork this repository, make your changes, and submit a pull request. We will review your changes and merge them into the main branch if they meet our quality standards.
 
+#### Contributors
+1. Hrushikesh Kachgunde ()
+2. Aniket Singh (https://github.com/aniket9763)
+3. Prathamesh Parit ()
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
